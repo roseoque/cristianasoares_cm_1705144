@@ -2,5 +2,5 @@
 Nome: Cristiana Soares Nº 1705144
 Curso: Comunicação Multimédia
 
-![alt text](http://ipg.picture.jpg)
+![alt text](.\imagens\ipg.png)
 
